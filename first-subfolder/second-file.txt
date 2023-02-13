@@ -4,4 +4,4 @@ file modified in main branch
 
 commit from main - step 2
 
-I add text - good one - from branch main in second file!
+I added text from branch feature-2 - ooo! text! and I add text - good one - from branch main in second file!
