@@ -3,3 +3,5 @@ file 2
 file modified in main branch
 
 commit from main - step 2
+
+I added text from branch feature-2 - ooo! text!
